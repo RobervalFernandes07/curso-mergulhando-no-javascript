@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promise</title>
+</head>
+<body>
+    
+    <script>
+        function handClick(){
+            return new Promise ((resolve, reject) =>{
+                setTimeout(() =>{
+                    reject(123)
+                }, 5000)
+            })
+        }
+
+        const result = handClick()
+          .then(res => {
+            console.log(123 === res)
+            console.log('finalizou')
+            return 'batata'
+          })  
+          .catch(err =>{
+            console.log('houve um erro')
+            console.log(err)
+            
+          })
+    </script>
+
+</body>
+</html>
