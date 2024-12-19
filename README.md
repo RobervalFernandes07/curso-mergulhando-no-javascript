@@ -10,10 +10,10 @@ O objetivo deste curso é ensiar JavaScript moderno **qualquer pessoa**, indepen
 
 Faça o Download dos Wallpapers exclusivos do curso Mergulhando no JavaScript 🤿!
 
-![Wallpapers curso Mergulhando no JavaScript](./_assets/preview.png)
+![Wallpapers curso Mergulhando no JavaScript](./MJS/_assets/preview.png)
 
-- [Wallpaper versão light (amarelo)](./_assets/wallpaper.png)
-- [Wallpaper versão dark](./_assets/wallpaper_dark.png)
+- [Wallpaper versão light (amarelo)](./MJS/_assets/wallpaper.png/)
+- [Wallpaper versão dark](./MJS/_assets/wallpaper_dark.png)
 
 
 ## Informações sobre o curso:
