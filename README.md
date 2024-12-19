@@ -6,6 +6,15 @@ Esse repositório é referente ao curso [Mergulhando no JavaScript](#), criado p
 
 O objetivo deste curso é ensiar JavaScript moderno **qualquer pessoa**, independente de um contato anterior com a linguagem.
 
+## Wallpapers exclusivos
+
+Faça o Download dos Wallpapers exclusivos do curso Mergulhando no JavaScript 🤿!
+
+![Wallpapers curso Mergulhando no JavaScript](./_assets/preview.png)
+
+- [Wallpaper versão light (amarelo)](./_assets/wallpaper.png)
+- [Wallpaper versão dark](./_assets/wallpaper_dark.png)
+
 
 ## Informações sobre o curso:
 
