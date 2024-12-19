@@ -1,14 +1,14 @@
-
-
-interface Person {
-  name: string
-  age: number 
+interface Animal {
   sex: 'male' | 'female'
 }
 
-const person: Person = {
+interface Human extends Animal {
+  name: string
+  age: number
+}
+
+const person: Human = {
   age: 22,
   name: 'Lucas',
   sex: 'male'
-
 }
