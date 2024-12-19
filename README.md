@@ -18,7 +18,7 @@ Faça o Download dos Wallpapers exclusivos do curso Mergulhando no JavaScript �
 
 ## Informações sobre o curso:
 
-*Obs.: Essas informações podem estar desatualizadas, sempre consulte a ementa na página de vendas antes de adquirir o curso para saber com exatidão quais as aulas disponíveis.*
+
 
 | Módulos                                   | Aulas | Tempo aproximado |
 | ------------------------------------------|:-----:| ----------------:|
